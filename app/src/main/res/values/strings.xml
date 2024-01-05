@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="don_t_forget_to_enter_numbers">Sayı Girmeyi Unutmayınız!</string>
+    <string name="conclusion">Sonuç: %1$s</string>
+</resources>
